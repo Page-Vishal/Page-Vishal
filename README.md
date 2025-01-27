@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Language](https://img.shields.io/github/languages/top/<username>/<repository>)
+
 <!--
 **Page-Vishal/Page-Vishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
