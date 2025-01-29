@@ -1,6 +1,6 @@
-## Hi
+## Good Day
 
-I am Vishal SIgdel, an Undergraduate of Electronics, Communication and Information Engineering.
+I am Vishal Sigdel, an Undergraduate of Electronics, Communication and Information Engineering.
 
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Page-Vishal)
