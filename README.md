@@ -9,8 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Page-Vishal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Page-Vishal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Github Commits
-![](https://github-readme-stats.vercel.app/api?username=Page-Vishal&show_icons=true&count_private=true)
 
 
 <!--
