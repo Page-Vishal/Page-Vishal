@@ -9,7 +9,7 @@
 
 ## ⚛️Learning React
   1. [Get a free Advice](https://page-vishal.github.io/03getAdvice/) <br />
-  2. [Checkout the Pizzas]((https://page-vishal.github.io/02Pizza-menu/)) <br />
+  2. [Checkout the Pizzas](https://page-vishal.github.io/02Pizza-menu/) <br />
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
 
 # 💻 Tech Stack:
