@@ -5,7 +5,7 @@
 
 ## 🎯 Projects:  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 &nbsp;&nbsp;&nbsp;&nbsp;[PDF-Mind](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) : Chat with Your PDF  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;[ChatBot](https://chatbot-vite-theta.vercel.app/) : Chat with your friendly neighbourhood BEI graduate engineer, Rudra
+&nbsp;&nbsp;&nbsp;&nbsp;[ChatBot](https://chatbot-vite-theta.vercel.app/) : Chat with your friendly neighbourhood engineer
 
 ## ⚛️Learning React
   1. [Get a free Advice](https://page-vishal.github.io/03getAdvice/) <br />
