@@ -5,7 +5,7 @@
 
 ## 🎯 Projects:  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 &nbsp;&nbsp;&nbsp;&nbsp;[PDF-Mind](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) : Chat with Your PDF  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;[SQL-Mind](https://sqlmind.streamlit.app/) : Chat with your postgres database. (Example using render postgres. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;[SQL-Mind](https://sqlmind.streamlit.app/) : Chat with your postgres database. (Example using render postgres) [The database details have wrong password as why not?] </br>
 &nbsp;&nbsp;&nbsp;&nbsp;[ChatBot](https://chatbot-vite-theta.vercel.app/) : Chat with your friendly neighbourhood engineer.
 
 ## ⚛️Learning React
