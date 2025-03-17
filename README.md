@@ -41,13 +41,13 @@ Page-Vishal/
     └── Personal-Web
     └── Misc:
         ├── JavaScript:
-        │    ├── DBMS_Project 
-        │    └── Email-Project
+        │   ├── DBMS_Project 
+        │   └── Email-Project
         ├── SQL:
-        │    └── DBMS_Tutorial_One 
+        │   └── DBMS_Tutorial_One 
         ├── C C++ (CLI or GUI):
-        │    ├── Library-Management
-        │    └── ProApp
+        │   ├── Library-Management
+        │   └── ProApp
     └── Private:
         └── Count : 6
 ```
@@ -59,7 +59,7 @@ Page-Vishal/
         │   ├── Hackathon_ERC_Cropsis 
         │   ├── Hackathon_NCE_FloodGuard
         ├── chatbot_vite
-        ├── Bot Collection
+        └── Bot Collection
 -->
 
 # 💻 Tech Stack:
