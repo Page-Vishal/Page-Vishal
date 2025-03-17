@@ -40,15 +40,14 @@ Page-Vishal/
         └── Server_RAG_BOT
     └── Personal-Web
     └── Misc:
-       ├── JavaScript:
-       │    ├── DBMS_Project 
-       │    └── Email-Project
-       ├── SQL:
-       │    └── DBMS_Tutorial_One 
-       ├── C C++ (CLI or GUI):
-       │    ├── Library-Management
-       │    └── ProApp
-
+        ├── JavaScript:
+        │    ├── DBMS_Project 
+        │    └── Email-Project
+        ├── SQL:
+        │    └── DBMS_Tutorial_One 
+        ├── C C++ (CLI or GUI):
+        │    ├── Library-Management
+        │    └── ProApp
     └── Private:
         └── Count : 6
 ```
