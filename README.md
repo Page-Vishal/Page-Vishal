@@ -20,7 +20,7 @@
 Page-Vishal/
     └── Page-Vishal
     └── Complete:
-        ├── chatbot (Frontend and Backend)
+        └── chatbot (Frontend and Backend)
     └── ChatBot:
         ├── RAG Based:
         │   ├── RAGBOT 
