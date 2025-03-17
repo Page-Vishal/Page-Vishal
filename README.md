@@ -14,9 +14,10 @@
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
 
 ## 🗃️Repo Tree
-&nbsp;&nbsp;There are a total of 25 repositaries out of which 19 are public and 6 are private. 
-[variable]: # "Hello, GitHub Markdown!"
-Hi [variable]
+&nbsp;&nbsp;There are a total of 25 repositaries out of which 19 are public and 6 are private. <br/>
+{% assign my_variable = "Hello, GitHub!" %}
+My message: {{ my_variable }}
+
 ```
 Page-Vishal/
     └── Page-Vishal
