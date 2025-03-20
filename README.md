@@ -27,11 +27,11 @@ Page-Vishal/
         │   ├── MultiRAG
         │   └── OTG-RAG (PDFMind)
         ├── SQL Based:
-        │    ├── SQLMind
-        │    └── PyPostgres
+        │   ├── SQLMind
+        │   └── PyPostgres
         ├── Voice Based:
-        │    ├── MrRudra
-        │    └── MyAssistant
+        │   ├── MrRudra
+        │   └── MyAssistant
     └── React Websites:
         ├── 02Pizza-menu
         ├── 03getAdvice
