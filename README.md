@@ -73,7 +73,7 @@ Page-Vishal/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Page-Vishal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Page-Vishal&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
-### ✍️ Mr Dev Quotes:
+### ✍️ Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
