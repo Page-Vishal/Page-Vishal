@@ -22,7 +22,8 @@ Page-Vishal/
     └── Complete:
         └── chatbot (Frontend and Backend)
     └── Agents:
-        └── Re_Act Agent(Simple React Agent)
+        └── Re_Act Agent:
+            └── Simple React Agent
     └── ChatBot:
         ├── RAG Based:
         │   ├── RAGBOT 
