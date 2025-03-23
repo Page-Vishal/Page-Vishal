@@ -8,12 +8,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[SQL-Mind](https://sqlmind.streamlit.app/) : Chat with your postgres database. (Example [render](https://render.com/)) or [local pg](https://sigiiz-sqlmind.hf.space/)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;[ChatBot](https://chatbot-vite-theta.vercel.app/) : Chat with your friendly neighbourhood engineer.
 
-## ⚛️Learning React
+## ⚛️ Learning React
   1. [Get a free Advice](https://page-vishal.github.io/03getAdvice/) <br />
   2. [Checkout the Pizzas](https://page-vishal.github.io/02Pizza-menu/) <br />
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
 
-## 🗃️Repo Tree
+## 🗃️ Repo Tree
 &nbsp;&nbsp;There are a total of 25 repositories out of which 19 are public and 6 are private. <br/>
 
 ```
