@@ -21,9 +21,11 @@ Page-Vishal/
     └── Page-Vishal
     └── Complete:
         └── chatbot (Frontend and Backend)
+    └── Python Classes:
+        └── SQLConnection
     └── Agents:
         └── Re_Act Agent:
-            └── Simple React Agent
+            └── Planet Agent
     └── ChatBot:
         ├── RAG Based:
         │   ├── RAGBOT 
