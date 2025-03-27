@@ -24,6 +24,7 @@ Page-Vishal/
     └── Python Classes:
         └── SQLConnection
     └── Agents:
+        ├── Researcher
         └── Re_Act Agent:
             └── Planet Agent
     └── ChatBot:
