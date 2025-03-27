@@ -25,7 +25,7 @@ Page-Vishal/
         └── SQLConnection
     └── Agents:
         ├── Researcher
-        └── Re_Act Agent:
+        └── ReAct Agent:
             └── Planet Agent
     └── ChatBot:
         ├── RAG Based:
