@@ -45,7 +45,7 @@ Page-Vishal/
         ├── 03getAdvice
         └── 04steps
     └── Servers
-        └── Server_RAG_BOT
+        └── Server_RAG_BOT (Flask)
     └── Personal-Web
     └── Misc:
         ├── JavaScript:
