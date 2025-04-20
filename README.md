@@ -23,6 +23,8 @@ Page-Vishal/
         └── chatbot (Frontend and Backend)
     └── Python Classes:
         └── SQLConnection
+    └── Not an Agent:
+        └── Yatri
     └── Agents:
         ├── Researcher
         └── ReAct Agent:
