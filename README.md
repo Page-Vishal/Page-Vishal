@@ -29,6 +29,9 @@ Page-Vishal/
         ├── Researcher
         └── ReAct Agent:
             └── Planet Agent
+    └── Servers
+        ├── Yatri_Fastapi (Fastapi)
+        └── Server_RAG_BOT (Flask)
     └── ChatBot:
         ├── RAG Based:
         │   ├── RAGBOT 
@@ -44,8 +47,6 @@ Page-Vishal/
         ├── 02Pizza-menu
         ├── 03getAdvice
         └── 04steps
-    └── Servers
-        └── Server_RAG_BOT (Flask)
     └── Personal-Web
     └── Misc:
         ├── JavaScript:
