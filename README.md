@@ -26,10 +26,12 @@ Page-Vishal/
     └── Not an Agent:
         └── Yatri
     └── Agents:
+        ├── EzyBot
         ├── Researcher
         └── ReAct Agent:
             └── Planet Agent
     └── Servers
+        ├── EsyBot_FastApi (FastApi)
         ├── Yatri_Fastapi (Fastapi)
         └── Server_RAG_BOT (Flask)
     └── ChatBot:
