@@ -14,7 +14,7 @@
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
 
 ## 🗃️ Repo Tree
-&nbsp;&nbsp;There are a total of 25 repositories out of which 19 are public and 6 are private.. <br/>
+&nbsp;&nbsp;There are a a lot of repositories <br/>
 
 ```
 Page-Vishal/
