@@ -35,11 +35,11 @@ Page-Vishal/
         ├── Yatri_Fastapi (Fastapi)
         └── Server_RAG_BOT (Flask)
     └── ChatBot:
-        ├── RAG Based:
+        ├── RAG Based (Document):
         │   ├── RAGBOT 
         │   ├── MultiRAG
         │   └── OTG-RAG (PDFMind)
-        ├── SQL Based:
+        ├── SQL Based (RAG):
         │   ├── SQLMind
         │   └── PyPostgres
         ├── Voice Based:
