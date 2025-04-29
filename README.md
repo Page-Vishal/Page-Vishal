@@ -39,7 +39,7 @@ Page-Vishal/
         │   ├── RAGBOT 
         │   ├── MultiRAG
         │   └── OTG-RAG (PDFMind)
-        ├── SQL Based (RAG):
+        ├── SQL Based:
         │   ├── SQLMind
         │   └── PyPostgres
         ├── Voice Based:
