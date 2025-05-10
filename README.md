@@ -12,6 +12,7 @@
   1. [Get a free Advice](https://page-vishal.github.io/03getAdvice/) <br />
   2. [Checkout the Pizzas](https://page-vishal.github.io/02Pizza-menu/) <br />
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
+  4. [Travel Planner](https://page-vishal.github.io/05Faraway/) <br/>
 
 ## 🗃️ Repo Tree
 &nbsp;&nbsp;There are a a lot of repositories <br/>
