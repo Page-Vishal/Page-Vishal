@@ -4,7 +4,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsigdel/) 
 
 ## 🎯 Projects:  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) <br/>
-<a href="https://groq.com" target="_blank" rel="noopener noreferrer">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://groq.com" target="_blank" rel="noopener noreferrer">
   <img
     src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg"
     alt="Powered by Groq for fast inference."
@@ -13,7 +13,7 @@
 </a>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;[PDF-Mind](https://st-chatpdf.streamlit.app/) : Chat with Your PDF  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;[SQL-Mind](https://sqlmind.streamlit.app/) : Chat with your postgres database. (Example [aiven](https://aiven.io/)) or [local pg](https://sigiiz-sqlmind.hf.space/)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;[SQL-Mind](https://sqlmind.streamlit.app/) : Chat with your postgres database. OR [local pg](https://sigiiz-sqlmind.hf.space/)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;[ChatBot](https://chatbot-vite-theta.vercel.app/) : Chat with your friendly neighbourhood engineer.
 
 ## ⚛️ Learning React
