@@ -31,6 +31,7 @@ Page-Vishal/
     └── Page-Vishal
     └── Complete:
         └── chatbot (Frontend and Backend)
+        └── EZY_complete (Frontend and Backend)
     └── Python Classes:
         └── SQLConnection
     └── Not an Agent:
