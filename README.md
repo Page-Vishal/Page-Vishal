@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[PDF-Mind](https://st-chatpdf.streamlit.app/) : Chat with Your PDF  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;[SQL-Mind](https://sqlmind.streamlit.app/) : Chat with your postgres database. OR [local pg](https://sigiiz-sqlmind.hf.space/)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;[ChatBot](https://chatbot-vite-theta.vercel.app/) : Chat with your friendly neighbourhood engineer. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;[Ezy](https://ezy-kappa.vercel.app/) : Chatbot for MongoDB query. (Still uses Rudra, needs time to change to ezybot) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[Ezy](https://ezy-kappa.vercel.app/) : Chatbot for MongoDB query. (EzyBot is now live in the app) <br/>
 
 ## ⚛️ Learning React
   1. [Get a free Advice](https://page-vishal.github.io/03getAdvice/) <br />
