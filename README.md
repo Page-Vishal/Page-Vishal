@@ -23,7 +23,7 @@
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
   4. [Travel Planner](https://page-vishal.github.io/05Faraway/) <br/>
 
-### 🆕 Updates
+### 🔄 Updates
 
 - Pana: AI powered Reciprocal Journal on hold
 - An Alternate Reality Game (ARG) is in my mind eating me; I'll try that first
