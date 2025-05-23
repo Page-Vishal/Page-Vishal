@@ -26,6 +26,11 @@
 ## 🗃️ Repo Tree
 &nbsp;&nbsp;There are a a lot of repositories <br/>
 
+### 🆕 Updates
+
+- Pana: AI powered Reciprocal Journal on hold
+- An Alternate Reality Game (ARG) is in my mind eating me; I'll try that first
+
 ```
 Page-Vishal/
     └── Page-Vishal
@@ -103,10 +108,6 @@ Page-Vishal/
 ### ✍️ Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### 🆕 Updates
-
-- Pana: AI powered Reciprocal Journal on hold
-- An Alternate Reality Game (ARG) is in my mind eating me; I'll try that first
 
 <!--
 
