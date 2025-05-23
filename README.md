@@ -23,13 +23,13 @@
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
   4. [Travel Planner](https://page-vishal.github.io/05Faraway/) <br/>
 
-## 🗃️ Repo Tree
-&nbsp;&nbsp;There are a a lot of repositories <br/>
-
 ### 🆕 Updates
 
 - Pana: AI powered Reciprocal Journal on hold
 - An Alternate Reality Game (ARG) is in my mind eating me; I'll try that first
+
+## 🗃️ Repo Tree
+&nbsp;&nbsp;There are a a lot of repositories <br/>
 
 ```
 Page-Vishal/
