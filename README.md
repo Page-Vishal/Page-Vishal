@@ -103,6 +103,11 @@ Page-Vishal/
 ### ✍️ Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+#### 🆕 Updates
+
+- Pana: AI powered Reciprocal Journal on hold
+- An Alternate Reality Game (ARG) is in my mind eating me; I'll try that first
+
 <!--
 
 ## 🏆 GitHub Trophies
