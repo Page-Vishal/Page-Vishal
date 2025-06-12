@@ -37,6 +37,10 @@ Page-Vishal/
     └── Complete:
         └── chatbot (Frontend and Backend)
         └── EZY_complete (Frontend and Backend)
+    └── CrewAI
+        ├── Annotations
+        ├── DBrief1.0
+        └── DBrief2.0
     └── Python Classes:
         └── SQLConnection
     └── Not an Agent:
