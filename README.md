@@ -41,7 +41,6 @@ Page-Vishal/
         ├── Annotations
         ├── DBrief1.0
         └── DBrief2.0
-    └── Templt
     └── Pana (onHold)
     └── ARG (Developing)
     └── Python Classes:
@@ -54,8 +53,9 @@ Page-Vishal/
         └── ReAct Agent:
             └── Planet Agent
     └── Servers
-        ├── EsyBot_FastApi (FastApi)
-        ├── Yatri_Fastapi (Fastapi)
+        ├── EsyBot_FastApi (FastAPI)
+        ├── Yatri_Fastapi (FastAPI)
+        └── Templt (FastAPI)
         └── Server_RAG_BOT (Flask)
     └── ChatBot:
         ├── RAG Based (Document):
