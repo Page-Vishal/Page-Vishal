@@ -23,6 +23,8 @@
   3. [Just Steps](https://page-vishal.github.io/04steps/) <br />
   4. [Travel Planner](https://page-vishal.github.io/05Faraway/) <br/>
 
+## 🛢 Learning SQL
+  1. [SQL](https://github.com/Page-Vishal/SQL) <br/>
 ### 🔄 Updates
 
 - Pana: AI powered Reciprocal Journal on hold
@@ -45,6 +47,8 @@ Page-Vishal/
     └── ARG (Developing)
     └── Python Classes:
         └── SQLConnection
+    └── SQL:
+        └── SQL
     └── Not an Agent:
         └── Yatri
     └── Agents:
