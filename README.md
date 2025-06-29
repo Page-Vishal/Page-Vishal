@@ -24,7 +24,7 @@
   4. [Travel Planner](https://page-vishal.github.io/05Faraway/) <br/>
 
 ## 🛢 Learning SQL
-  1. [SQL](https://github.com/Page-Vishal/SQL) <br/>
+  1. [SQL](https://github.com/Page-Vishal/SQL) : Covering all aspects of sql.<br/>
 ### 🔄 Updates
 
 - Pana: AI powered Reciprocal Journal on hold
