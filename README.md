@@ -61,9 +61,10 @@ Page-Vishal/
         ├── Yatri_Fastapi (FastAPI)
         └── Templt (FastAPI)
         └── Server_RAG_BOT (Flask)
-    └── ChatBot:
+    └── Bot:
         ├── RAG Based (Document):
-        │   ├── RAGBOT 
+        │   ├── PGRAG 
+        │   ├── RAGBOT
         │   ├── MultiRAG
         │   └── OTG-RAG (PDFMind)
         ├── SQL Based:
