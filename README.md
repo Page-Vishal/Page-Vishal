@@ -4,7 +4,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsigdel/) 
 
 ## 🎯 Projects:  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) <br/>
-- **EZY** : Ezy: AI-powered assistant for instant data insights ![](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+- **Pana** : Voice Journal to track your feelings and emotions; wherever you are.
+- **EZY** : AI-powered assistant for instant data insights ![](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 - **Yatri** : A complete E-commerce solution from the chat ![](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 - **Rudra** : AI assissted voice utility assistant
 
