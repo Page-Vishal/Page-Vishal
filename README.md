@@ -3,7 +3,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sigdelvishal123@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsigdel/) 
 
-## ![Facet-Emoji](https://raw.githubusercontent.com/ShowcaseVault/Facet/main/public/logo.png) &nbsp;Facet:
+## ![Facet-Emoji](assets/facet_resized.png) &nbsp;Facet:
   [![Facet](https://img.shields.io/badge/facet-Page--Vishal-6C5CE7?style=flat&logoColor=white)](https://facet-one.vercel.app/Page-Vishal)
 
 
